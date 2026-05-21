@@ -1,12 +1,14 @@
-## Hola, soy Ale ☕
-**Diseñador gráfico y creador de contenido. Fotógrafo por pasión y músico ocasional.**
+## Hi, I'm Ale ☕
+**Graphic designer and content creator. Developer by passion and occasional musician.**
 
-Mi trabajo se centra principalmente en publicidad para medios digitales y tradicionales así como creación de contenido para redes sociales. Este repo sin más es para mi presentación, sin más. 👽
+My work mainly focuses on advertising for digital and traditional media, as well as creating content for social media. This repo is simply for my introduction. 👽
 
-Siempre me ha gustado experimentar con el mundo dev y desde pandemia aún más, sin embargo, no me dedico profesionalmente a esto. Simplemente soy un millennial friki de las cosas tech 🤓 y un curioso por naturaleza (está de más decirlo pero me gusta aprender cosas nuevas). Me fascina el café, Harry Potter, Star Wars y Dune (principalmente).
+I've always enjoyed experimenting with the development world, and even more so since the pandemic. However, I don't work professionally in this field. I'm just a millennial tech geek 🤓 and naturally curious (it goes without saying, but I love learning new things). I'm fascinated by coffee, Harry Potter, Star Wars, and Dune (mainly).
 
-**También puedes seguirme en 👇**
+You can also follow me on Instagram: https://www.instagram.com/itsmrtr
 
-* Instagram 📸 : https://www.instagram.com/itsmrtr/
-* YouTube 📹 : https://www.youtube.com/@itsmrtr?sub_confirmation=1
-* Twitch 🟣 : https://twitch.tv/itsmrtr
+**See my work and projects at 👇**
+
+* Website: https://alemartir.com
+* AM25: https://am25.work
+* Plank CMS: https://plank-cms.com
